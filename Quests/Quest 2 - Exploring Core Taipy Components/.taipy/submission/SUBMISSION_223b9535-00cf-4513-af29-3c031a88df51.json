@@ -1,0 +1,19 @@
+{
+"id": "SUBMISSION_223b9535-00cf-4513-af29-3c031a88df51",
+"entity_id": "SCENARIO_country_company_scenario_81a8fd43-18ca-41e7-a567-a1fc49310725",
+"entity_type": "SCENARIO",
+"entity_config_id": "country_company_scenario",
+"job_ids": [
+"JOB_filter_companies_task_f4f2e894-1451-46f9-8cd0-b62c45a43c41"
+],
+"properties": {},
+"creation_date": "2025-01-01T19:05:35.440337",
+"submission_status": "<SubmissionStatus.COMPLETED: 7>",
+"version": "46780c03-77e7-42c5-a65f-a6135077834e",
+"is_completed": true,
+"is_abandoned": false,
+"is_canceled": false,
+"running_jobs": [],
+"blocked_jobs": [],
+"pending_jobs": []
+}
