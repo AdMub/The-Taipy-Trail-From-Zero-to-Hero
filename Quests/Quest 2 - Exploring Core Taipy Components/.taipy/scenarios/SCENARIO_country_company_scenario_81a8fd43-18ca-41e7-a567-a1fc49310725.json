@@ -1,0 +1,16 @@
+{
+"id": "SCENARIO_country_company_scenario_81a8fd43-18ca-41e7-a567-a1fc49310725",
+"config_id": "country_company_scenario",
+"tasks": [
+"TASK_filter_companies_task_466a2398-cd83-4fd5-ab89-3f30366e54f2"
+],
+"additional_data_nodes": [],
+"properties": {},
+"creation_date": "2025-01-01T19:03:51.560794",
+"primary_scenario": false,
+"subscribers": [],
+"tags": [],
+"version": "46780c03-77e7-42c5-a65f-a6135077834e",
+"sequences": null,
+"cycle": null
+}
